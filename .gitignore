@@ -1,2 +1,7 @@
 .vscode/launch.json
 google_foobar.code-workspace
+.python-version
+doomsday-fuel/doomsday-fuel.pyc
+doomsday-fuel/scratch.drawio
+doomsday-fuel/test.txt
+doomsday-fuel/.vscode/launch.json
