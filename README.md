@@ -1,0 +1,1 @@
+I participated in the google foobar challenge and had a lot of fun solving and understanding these interesting problems. I was pleasently surprised by the amount of graph theory problems because I loved my graph theory course. It was nice to get to apply those math skills!

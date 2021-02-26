@@ -1,5 +1,0 @@
-https://www.pharmabraille.com/pharmaceutical-braille/the-braille-alphabet/
-braille translator
-a = "100000"
-cap = "000001"
-Hello World = 

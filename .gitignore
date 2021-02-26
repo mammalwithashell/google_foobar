@@ -1,9 +1,6 @@
 .vscode/launch.json
-google_foobar.code-workspace
 .python-version
-doomsday-fuel/doomsday-fuel.pyc
-doomsday-fuel/scratch.drawio
-doomsday-fuel/test.txt
-doomsday-fuel/.vscode/launch.json
-escape-pod-lv4/optflows.pdf
-escape-pod-lv4/ge330fall09_maxflowl20.pdf
+lv3\doomsday-fuel-lv3\graph.py
+lv3\doomsday-fuel-lv3\test.drawio
+lv3\doomsday-fuel-lv3\scratch.drawio
+google_foobar.code-workspace
